@@ -1,0 +1,1346 @@
+msgid "This file no longer exists. Please reload the page."
+msgstr "Tập tin này không còn tồn tại. Vui lòng tải lại trang."
+
+msgid "You are not authorized to access this file."
+msgstr "Bạn không được phép truy cập tập tin này."
+
+msgid "Access Denied"
+msgstr "Truy cập bị từ chối"
+
+msgid "This file is protected. You will be redirected to the login page."
+msgstr "Tập tin này được bảo vệ. Bạn sẽ được chuyển hướng đến trang đăng nhập."
+
+msgid "Manage material"
+msgstr "Quản lý tài liệu"
+
+msgid "Today"
+msgstr "Hôm nay"
+
+msgid "Events happening on {0}"
+msgstr "Sự kiện xảy ra vào {0}"
+
+msgid "{0} long-lasting event not shown"
+msgstr "{0} sự kiện kéo dài không được hiển thị"
+
+msgid "Long lasting events"
+msgstr "Sự kiện kéo dài"
+
+msgid "empty"
+msgstr "trống"
+
+msgid "{0} event"
+msgstr "Sự kiện {0}"
+
+msgid "Remove from your favourites"
+msgstr "Xóa khỏi mục yêu thích của bạn"
+
+msgid "Add to your favourites"
+msgstr "Thêm vào mục yêu thích của bạn"
+
+msgid "This will make events in this category visible on your <a href=\"{0}\">Dashboard</a>."
+msgstr "Điều này sẽ làm cho các sự kiện trong danh mục này hiển thị trên <a href=\" đũa0spl\"> Bảng điều khiển </a> của bạn."
+
+msgid "Undo"
+msgstr "Hoàn tác"
+
+msgid "The category order has been restored."
+msgstr "Thứ tự danh mục đã được khôi phục."
+
+msgid "The category list has been sorted."
+msgstr "Danh sách danh mục đã được sắp xếp."
+
+msgid "Delete category"
+msgstr "Xóa danh mục"
+
+msgid "This category cannot be deleted because it is not empty."
+msgstr "Thể loại này không thể bị xóa vì nó không trống."
+
+msgid "At least one selected category cannot be deleted because it is not empty."
+msgstr "Ít nhất một danh mục đã chọn không thể bị xóa vì nó không trống."
+
+msgid "Delete the selected category"
+msgstr "Xóa danh mục đã chọn"
+
+msgid "Select the categories to delete first."
+msgstr "Chọn danh mục để xóa đầu tiên."
+
+msgid "Delete categories"
+msgstr "Xóa danh mục"
+
+msgid "Move the selected category"
+msgstr "Di chuyển danh mục đã chọn"
+
+msgid "Select the categories to move first."
+msgstr "Chọn các loại để di chuyển đầu tiên."
+
+msgid "*"
+msgstr "*"
+
+msgid "Only {0} out of {1} events is currently selected."
+msgstr "Hiện tại chỉ có {0} trong số {1} sự kiện được chọn."
+
+msgid "Move here"
+msgstr "Chuyển đến đây"
+
+msgid "Move category"
+msgstr "Di chuyển danh mục"
+
+msgid "Select new category parent for the category"
+msgstr "Chọn danh mục mới cha mẹ cho danh mục"
+
+msgid "The category is already here"
+msgstr "Danh mục đã có ở đây"
+
+msgid "This is the category you are trying to move"
+msgstr "Đây là danh mục bạn đang cố gắng di chuyển"
+
+msgid "Move event"
+msgstr "Di chuyển sự kiện"
+
+msgid "Select category destination for the event"
+msgstr "Chọn điểm đến cho sự kiện"
+
+msgid "The event is already here"
+msgstr "Sự kiện đã ở đây"
+
+msgid "Unknown error while contacting the Community Hub"
+msgstr "Lỗi không xác định trong khi liên hệ với Community Hub"
+
+msgid "Internal error: Parse error on the reply of the Community Hub."
+msgstr "Lỗi nội bộ: Lỗi phân tích cú pháp khi trả lời của Community Hub."
+
+msgid "Unable to contact the Community Hub."
+msgstr "Không thể liên hệ với Trung tâm cộng đồng."
+
+msgid "The connection to the Community Hub timed out."
+msgstr "Kết nối với Community Hub đã hết thời gian."
+
+msgid "Your server is not registered with the Community Hub."
+msgstr "Máy chủ của bạn chưa được đăng ký với Community Hub."
+
+msgid "Disabled"
+msgstr "Tàn tật"
+
+msgid "This server is not registered as part of the community."
+msgstr "Máy chủ này không được đăng ký như là một phần của cộng đồng."
+
+msgid "Synchronized"
+msgstr "Đã đồng bộ hóa"
+
+msgid "This server is registered as part of the community and is up to date."
+msgstr "Máy chủ này được đăng ký như một phần của cộng đồng và được cập nhật."
+
+msgid "Out of sync"
+msgstr "Không đồng bộ"
+
+msgid "Your Indico server is out of sync. Synchronize it with the button on the right."
+msgstr "Máy chủ Indico của bạn không đồng bộ. Đồng bộ hóa nó với nút bên phải."
+
+msgid "Error!"
+msgstr "Lỗi!"
+
+msgid "Your Indico server is not synchronized with the Community Hub! You can solve this <a href=\"{0}\">here</a>."
+msgstr "Máy chủ Indico của bạn không được đồng bộ hóa với Community Hub! Bạn có thể giải quyết <a href=\" đũa0opez\"> tại đây </a>."
+
+msgid "Select user to impersonate"
+msgstr "Chọn người dùng để mạo danh"
+
+msgid "The back side of the templates that use this one as the back side will be removed."
+msgstr "Mặt sau của các mẫu sử dụng mẫu này làm mặt sau sẽ bị xóa."
+
+msgid "Disassociate back sides"
+msgstr "Phân tách mặt sau"
+
+msgid "Fixed text"
+msgstr "Đã sửa văn bản"
+
+msgid "Warning"
+msgstr "Cảnh báo"
+
+msgid "Please choose a name for the template"
+msgstr "Vui lòng chọn tên cho mẫu"
+
+msgid "The template cannot be empty. Add some elements or a background image."
+msgstr "Mẫu không thể để trống. Thêm một số yếu tố hoặc một hình ảnh nền."
+
+msgid "Are you sure you want to change the dimensions of this template?"
+msgstr "Bạn có chắc chắn muốn thay đổi kích thước của mẫu này?"
+
+msgid "This back side template will be removed"
+msgstr "Mẫu mặt sau này sẽ bị xóa"
+
+msgid "The back side of this template will be removed"
+msgstr "Mặt sau của mẫu này sẽ bị xóa"
+
+msgid "Disassociate back side"
+msgstr "Không liên kết phía sau"
+
+msgid "The back side is empty."
+msgstr "Mặt sau trống rỗng."
+
+msgid "Error"
+msgstr "lỗi"
+
+msgid "Choose a file"
+msgstr "Chọn một tập tin"
+
+msgid "Show preview"
+msgstr "Hiển thị xem trước"
+
+msgid "Hide preview"
+msgstr "Ẩn xem trước"
+
+msgid "Edit minutes"
+msgstr "Chỉnh sửa phút"
+
+msgid "Menu Entry Settings"
+msgstr "Cài đặt menu"
+
+msgid "{0} out of {1} displayed"
+msgstr "{0} trong số {1} được hiển thị"
+
+msgid "There are no entries that match your search criteria."
+msgstr "Không có mục nào phù hợp với tiêu chí tìm kiếm của bạn."
+
+msgid "Filter sessions"
+msgstr "Phiên lọc"
+
+msgid "Assign new session"
+msgstr "Chỉ định phiên mới"
+
+msgid "Add new session"
+msgstr "Thêm phiên mới"
+
+msgid "No session"
+msgstr "Không có phiên"
+
+msgid "Not scheduled"
+msgstr "Không theo lịch trình"
+
+msgid "'{0}' has been unscheduled due to the session change."
+msgstr "'{0}' đã không được lên lịch do thay đổi phiên."
+
+msgid "Undo successful! Timetable entry and session have been restored."
+msgstr "Hoàn tác thành công! Thời khóa biểu và phiên đã được khôi phục."
+
+msgid "Filter tracks"
+msgstr "Lọc các bản nhạc"
+
+msgid "Add new track"
+msgstr "Thêm bản nhạc mới"
+
+msgid "No track"
+msgstr "Không có dấu vết"
+
+msgid "You are about to move the event to the category \"{0}\". Are you sure you want to proceed?"
+msgstr "Bạn sắp chuyển sự kiện sang danh mục \ "{0} \". Bạn có chắc muốn tiếp tục?"
+
+msgid "Undoing previous operation..."
+msgstr "Hoàn tác thao tác trước đó ..."
+
+msgid "Terms and Conditions"
+msgstr "Các điều khoản và điều kiện"
+
+msgid "Email Preview"
+msgstr "Xem trước email"
+
+msgid "Do you really want to delete the selected registration?"
+msgstr "Bạn có thực sự muốn xóa đăng ký đã chọn?"
+
+msgid "New Field"
+msgstr "Lĩnh vực mới"
+
+msgid "Edit Field"
+msgstr "Chỉnh sửa trường"
+
+msgid "Add"
+msgstr "Thêm vào"
+
+msgid "Update"
+msgstr "Cập nhật"
+
+msgid "There is already a registration with this email address."
+msgstr "Hiện đã có đăng ký với địa chỉ email này."
+
+msgid "The user associated with this email address is already registered."
+msgstr "Người dùng được liên kết với địa chỉ email này đã được đăng ký."
+
+msgid "There is no Indico user associated with this email address."
+msgstr "Không có người dùng Indico liên kết với địa chỉ email này."
+
+msgid "This email address is not associated with your Indico account."
+msgstr "Địa chỉ email này không được liên kết với tài khoản Indico của bạn."
+
+msgid "The registration will be re-associated to a different user (<strong>{0}</strong>)."
+msgstr "Việc đăng ký sẽ được liên kết lại với một người dùng khác (<strong> {0} </ strong>)."
+
+msgid "The registration will be disassociated from the current user (<strong>{0}</strong>)."
+msgstr "Việc đăng ký sẽ bị tách khỏi người dùng hiện tại (<strong> {0} </ strong>)."
+
+msgid "This email address is invalid."
+msgstr "Địa chỉ email này không hợp lệ."
+
+msgid "The registration will not be associated with any Indico account."
+msgstr "Việc đăng ký sẽ không được liên kết với bất kỳ tài khoản Indico nào."
+
+msgid "The registration will be associated with your Indico account."
+msgstr "Việc đăng ký sẽ được liên kết với tài khoản Indico của bạn."
+
+msgid "The registration will remain associated with the Indico account <strong>{0}</strong>."
+msgstr "Việc đăng ký sẽ vẫn được liên kết với tài khoản Indico <strong> {0} </ strong>."
+
+msgid "The registration will be associated with the Indico account <strong>{0}</strong>."
+msgstr "Việc đăng ký sẽ được liên kết với tài khoản Indico <strong> {0} </ strong>."
+
+msgid "Checking email address..."
+msgstr "Kiểm tra địa chỉ email ..."
+
+msgid "Checkbox"
+msgstr "Hộp kiểm"
+
+msgid "Country"
+msgstr "Quốc gia"
+
+msgid "Date"
+msgstr "Ngày"
+
+msgid "File"
+msgstr "Tập tin"
+
+msgid "Free Text"
+msgstr "Văn bản miễn phí"
+
+msgid "Number"
+msgstr "Con số"
+
+msgid "Choice"
+msgstr "Lựa chọn"
+
+msgid "Caption"
+msgstr "Chú thích"
+
+msgid "Billable"
+msgstr "Có thể thanh toán"
+
+msgid "Price"
+msgstr "Giá bán"
+
+msgid "Places limit"
+msgstr "Giới hạn địa điểm"
+
+msgid "Max. extra slots"
+msgstr "Tối đa khe thêm"
+
+msgid "Extra slots pay"
+msgstr "Thêm khe trả tiền"
+
+msgid "Enabled"
+msgstr "Đã bật"
+
+msgid "Phone"
+msgstr "Điện thoại"
+
+msgid "Text"
+msgstr "Bản văn"
+
+msgid "Textarea"
+msgstr "Văn bản"
+
+msgid "Yes/No"
+msgstr "Có không"
+
+msgid "yes"
+msgstr "Đúng"
+
+msgid "no"
+msgstr "Không"
+
+msgid "Email address"
+msgstr "Địa chỉ email"
+
+msgid "Title of the \"None\" option"
+msgstr "Tiêu đề của tùy chọn \ "Không \""
+
+msgid "Accommodation"
+msgstr "Chỗ ở"
+
+msgid "Accommodation option"
+msgstr "Lựa chọn chỗ ở"
+
+msgid "Multi choice"
+msgstr "Đa lựa chọn"
+
+msgid "Add new field"
+msgstr "Thêm lĩnh vực mới"
+
+msgid "Filter types"
+msgstr "Các loại bộ lọc"
+
+msgid "Add new type"
+msgstr "Thêm loại mới"
+
+msgid "No type"
+msgstr "Không có loại"
+
+msgid "Click to toggle collapse status"
+msgstr "Nhấp để chuyển trạng thái thu gọn"
+
+msgid "Copied to clipboard"
+msgstr "Sao chép vào clipboard"
+
+msgid "Press {0} to copy"
+msgstr "Nhấn {0} để sao chép"
+
+msgid "Create new lecture"
+msgstr "Tạo bài giảng mới"
+
+msgid "Create new meeting"
+msgstr "Tạo cuộc họp mới"
+
+msgid "Create new conference"
+msgstr "Tạo hội nghị mới"
+
+msgid "You have unsaved changes. Do you really want to close the dialog without saving?"
+msgstr "Bạn có các thay đổi chưa lưu. Bạn có thực sự muốn đóng hộp thoại mà không lưu?"
+
+msgid "Unsaved changes"
+msgstr "Thay đổi chưa lưu"
+
+msgid "Close"
+msgstr "Đóng"
+
+msgid "You have unsaved changes that will be lost."
+msgstr "Bạn có những thay đổi chưa được lưu sẽ bị mất."
+
+msgid "Confirm action"
+msgstr "Xác nhận hành động"
+
+msgid "Direct link to this item"
+msgstr "Liên kết trực tiếp đến mặt hàng này"
+
+msgid "Next"
+msgstr "Kế tiếp"
+
+msgid "Previous"
+msgstr "Trước"
+
+msgid "Choose the start date"
+msgstr "Chọn ngày bắt đầu"
+
+msgid "Choose the end date"
+msgstr "Chọn ngày kết thúc"
+
+msgid "Something went wrong"
+msgstr "Đã xảy ra lỗi"
+
+msgid "The passwords do not match."
+msgstr "Mật khẩu không trùng khớp."
+
+msgid "Field must be at least {0} character long."
+msgstr "Trường phải dài ít nhất {0} ký tự."
+
+msgid "Field cannot be longer than {0} character."
+msgstr "Trường không thể dài hơn {0} ký tự."
+
+msgid "Field must be between {0} and {1} characters long."
+msgstr "Trường phải dài từ {0} đến {1} ký tự."
+
+msgid "Field must contain at least {0} word."
+msgstr "Trường phải chứa ít nhất {0} từ."
+
+msgid "Field cannot contain more than {0} word."
+msgstr "Trường không thể chứa nhiều hơn {0} từ."
+
+msgid "Field must contain between {0} and {1} words."
+msgstr "Trường phải chứa từ {0} đến {1} từ."
+
+msgid "Save now"
+msgstr "Lưu bây giờ"
+
+msgid "Saving..."
+msgstr "Tiết kiệm..."
+
+msgid "Do not forget to save your changes!"
+msgstr "Đừng quên lưu các thay đổi của bạn!"
+
+msgid "Only {0} out of {1} rows is currently selected"
+msgstr "Hiện tại chỉ có {0} trong số {1} hàng được chọn"
+
+msgid "Select only the current page."
+msgstr "Chỉ chọn trang hiện tại."
+
+msgid "Click here to select them all."
+msgstr "Nhấn vào đây để chọn tất cả."
+
+msgid "Please confirm"
+msgstr "Vui lòng xác nhận"
+
+msgid "Executing operation..."
+msgstr "Thực hiện thao tác ..."
+
+msgid "Operation done!"
+msgstr "Thao tác xong!"
+
+msgid "Operation failed!"
+msgstr "Lỗi hệ thống!"
+
+msgid "Saved"
+msgstr "Đã lưu"
+
+msgid "Save"
+msgstr "Tiết kiệm"
+
+msgid "Loading..."
+msgstr "Đang tải..."
+
+msgid "Select"
+msgstr "Lựa chọn"
+
+msgid "This category doesn't contain any subcategory"
+msgstr "Thể loại này không chứa bất kỳ danh mục con"
+
+msgid "Select a category"
+msgstr "Chọn một danh mục"
+
+msgid "Not possible for categories containing subcategories"
+msgstr "Không thể cho các danh mục chứa các danh mục phụ"
+
+msgid "Not possible for categories containing events"
+msgstr "Không thể cho các danh mục chứa sự kiện"
+
+msgid "Not possible for categories where you cannot create events"
+msgstr "Không thể cho các danh mục nơi bạn không thể tạo sự kiện"
+
+msgid "Not possible for categories descending from category \"{0}\""
+msgstr "Không thể cho các danh mục giảm dần từ danh mục \ "{0} \""
+
+msgid "Not possible for this category"
+msgstr "Không thể cho thể loại này"
+
+msgid "Search"
+msgstr "Tìm kiếm"
+
+msgid "in"
+msgstr "trong"
+
+msgid "Go to: {0}"
+msgstr "Truy cập: {0}"
+
+msgid "This category is protected"
+msgstr "Thể loại này được bảo vệ"
+
+msgid "Go to parent: {0}"
+msgstr "Chuyển đến phụ huynh: {0}"
+
+msgid "{0} category"
+msgstr "Danh mục {0}"
+
+msgid "You can only <a class=\"js-action\" data-category-id=\"{0}\">{1}</a> this one."
+msgstr "Bạn chỉ có thể <a class=\"js-action\" data-carget-id=\" đũa0spl\"> {1} </a> cái này."
+
+msgid "You can <a class=\"js-navigate-up\" data-parent-id=\"{2}\">navigate up</a> or <a class=\"js-search\">search</a>."
+msgstr "Bạn có thể <a class=\"js-navigate-up\" data-parent-id=\" đũa2spl\"> điều hướng lên </a> hoặc <a class=\"js-search\"> tìm kiếm < / a>."
+
+msgid "Your search doesn't match any category"
+msgstr "Tìm kiếm của bạn không phù hợp với bất kỳ danh mục nào"
+
+msgid "You can <a class=\"js-search\">modify</a> or <a class=\"js-clear-search\">clear</a> your search."
+msgstr "Bạn có thể <a class=\"js-search\"> sửa đổi </a> hoặc <a class=\"js-clear-search\"> xóa </a> tìm kiếm của bạn."
+
+msgid "In favourite categories"
+msgstr "Trong danh mục yêu thích"
+
+msgid "Search result"
+msgstr "Tìm kêt quả"
+
+msgid "Displaying {0} out of {1} results."
+msgstr "Hiển thị {0} trong số {1} kết quả."
+
+msgid "There are no results."
+msgstr "Không có kết quả."
+
+msgid "Make the search more specific for more accurate results"
+msgstr "Làm cho tìm kiếm cụ thể hơn để có kết quả chính xác hơn"
+
+msgid "Clear search"
+msgstr "Tìm kiếm rõ ràng"
+
+msgid "You selected category <em>{0}</em>. Are you sure you want to proceed?"
+msgstr "Bạn đã chọn danh mục <em> {0} </ em>. Bạn có chắc muốn tiếp tục?"
+
+msgid "Type to filter..."
+msgstr "Nhập để lọc ..."
+
+msgid "You can copy the URL below using CTRL + C (&#8984; + C on OSX):"
+msgstr "Bạn có thể sao chép URL bên dưới bằng CTRL + C (+ C trên OSX):"
+
+msgid "Type to add {0}"
+msgstr "Nhập để thêm {0}"
+
+msgid "Delete"
+msgstr "Xóa bỏ"
+
+msgid "Empty values are not allowed."
+msgstr "Giá trị trống không được phép."
+
+msgid "Choose person"
+msgstr "Chọn người"
+
+msgid "There is already another person with this email address."
+msgstr "Đã có một người khác với địa chỉ email này."
+
+msgid "Edit information"
+msgstr "Chỉnh sửa thông tin"
+
+msgid "Enter person"
+msgstr "Nhập người"
+
+msgid "Select an option"
+msgstr "Chọn một tùy chọn"
+
+msgid "Time"
+msgstr "Thời gian"
+
+msgid "Using default location from: {0} ({1})"
+msgstr "Sử dụng vị trí mặc định từ: {0} ({1})"
+
+msgid "Using custom location"
+msgstr "Sử dụng vị trí tùy chỉnh"
+
+msgid "Just use \"{0}\""
+msgstr "Chỉ cần sử dụng \ "{0} \""
+
+msgid "<strong>1</strong> char left"
+msgstr "<strong> 1 </ strong> char trái"
+
+msgid "<strong>1</strong> word left"
+msgstr "<strong> 1 </ strong> từ trái"
+
+msgid "Edit"
+msgstr "Biên tập"
+
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+msgid "Must be between {0} and {1}"
+msgstr "Phải nằm trong khoảng {0} đến {1}"
+
+msgid "Must be above {0}"
+msgstr "Phải trên {0}"
+
+msgid "Must be below {0}"
+msgstr "Phải dưới {0}"
+
+msgid "Please fill in the required fields."
+msgstr "Vui lòng điền vào phần được yêu cầu."
+
+msgid "IP networks cannot have management permissions"
+msgstr "Mạng IP không thể có quyền quản lý"
+
+msgid "Assign Permissions"
+msgstr "Gán quyền"
+
+msgid "Delete entry '{0}'"
+msgstr "Xóa mục nhập '{0}'"
+
+msgid "Are you sure you want to remove yourself from the list?"
+msgstr "Bạn có chắc chắn muốn xóa mình khỏi danh sách?"
+
+msgid "All IP Networks were added"
+msgstr "Tất cả các mạng IP đã được thêm vào"
+
+msgid "This entry was already added"
+msgstr "Mục nhập này đã được thêm vào"
+
+msgid "Anonymous"
+msgstr "Vô danh"
+
+msgid "Category Managers"
+msgstr "Quản lý danh mục"
+
+msgid "Event Managers"
+msgstr "Quản lý sự kiện"
+
+msgid "Select a user or group to add"
+msgstr "Chọn người dùng hoặc nhóm để thêm"
+
+msgid "Speaker"
+msgstr "Loa"
+
+msgid "Remove person"
+msgstr "Hủy bỏ người"
+
+msgid "Configure roles"
+msgstr "Cấu hình vai trò"
+
+msgid "Submitter"
+msgstr "Người nộp"
+
+msgid "or"
+msgstr "hoặc là"
+
+msgid "Move to authors"
+msgstr "Chuyển đến tác giả"
+
+msgid "Move to co-authors"
+msgstr "Chuyển đến đồng tác giả"
+
+msgid "Move to others"
+msgstr "Chuyển đến người khác"
+
+msgid "Not a speaker anymore"
+msgstr "Không phải là một người nói nữa"
+
+msgid "Make a speaker"
+msgstr "Làm loa"
+
+msgid "People in the 'Others' section <strong>must</strong> be speakers."
+msgstr "Những người trong phần 'Người khác' <strong> phải </ strong> là người nói."
+
+msgid "Revoke submission rights"
+msgstr "Thu hồi quyền nộp"
+
+msgid "Grant submission rights"
+msgstr "Cấp quyền nộp"
+
+msgid "Custom sorting has been applied. Click to restore alphabetical order."
+msgstr "Sắp xếp tùy chỉnh đã được áp dụng. Nhấn vào đây để khôi phục lại thứ tự chữ cái."
+
+msgid "Alphabetical sorting is ON. Click to turn it off."
+msgstr "Sắp xếp theo thứ tự chữ cái là ON. Nhấn vào đây để tắt nó."
+
+msgid "You must add at least one speaker"
+msgstr "Bạn phải thêm ít nhất một loa"
+
+msgid "You must add at least one submitter"
+msgstr "Bạn phải thêm ít nhất một người nộp"
+
+msgid "You must add at least one co-author"
+msgstr "Bạn phải thêm ít nhất một đồng tác giả"
+
+msgid "You must add at least one author"
+msgstr "Bạn phải thêm ít nhất một tác giả"
+
+msgid "You cannot have users in the Other section, please make them authors or co-authors"
+msgstr "Bạn không thể có người dùng trong phần Khác, vui lòng biến họ thành tác giả hoặc đồng tác giả"
+
+msgid "Ok"
+msgstr "Đồng ý"
+
+msgid "The content of this dialog is currently unavailable."
+msgstr "Nội dung của hộp thoại này hiện không có sẵn."
+
+msgid "Would you like to export private information to your calendar?"
+msgstr "Bạn có muốn xuất thông tin cá nhân vào lịch của bạn?"
+
+msgid "Would you like to create a persistent URL for use with your calendaring application?"
+msgstr "Bạn có muốn tạo một URL liên tục để sử dụng với ứng dụng lịch của bạn không?"
+
+msgid "OK"
+msgstr "đồng ý"
+
+msgid "Reason: "
+msgstr "Lý do:"
+
+msgid "Remove from your list of favorite users"
+msgstr "Xóa khỏi danh sách người dùng yêu thích của bạn"
+
+msgid "Add to your list of favorite users"
+msgstr "Thêm vào danh sách người dùng yêu thích của bạn"
+
+msgid "This person exists in the event"
+msgstr "Người này tồn tại trong sự kiện"
+
+msgid "Users with no Indico account"
+msgstr "Người dùng không có tài khoản Indico"
+
+msgid "Grant all selected users submission rights"
+msgstr "Cấp tất cả các quyền người dùng được chọn"
+
+msgid "You can use the form above to search for users..."
+msgstr "Bạn có thể sử dụng mẫu ở trên để tìm kiếm người dùng ..."
+
+msgid "Family name"
+msgstr "Tên gia đình"
+
+msgid "First name"
+msgstr "Tên đầu tiên"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Organisation"
+msgstr "Cơ quan"
+
+msgid "Exact Match"
+msgstr "Kết hợp chuẩn xác"
+
+msgid "No results for this search..."
+msgstr "Không có kết quả cho tìm kiếm này..."
+
+msgid "Group name"
+msgstr "Tên nhóm"
+
+msgid "Users"
+msgstr "Người dùng"
+
+msgid "Groups"
+msgstr "Các nhóm"
+
+msgid "Suggested users"
+msgstr "Người dùng được đề xuất"
+
+msgid "There are no suggested users for you at the moment. Why not add some "
+msgstr "Không có người dùng đề xuất cho bạn tại thời điểm này. Tại sao không thêm một số"
+
+msgid "favourites"
+msgstr "yêu thích"
+
+msgid "Please select at least one item"
+msgstr "Vui lòng chọn ít nhất một mục"
+
+msgid "Choose"
+msgstr "Chọn"
+
+msgid "Note:"
+msgstr "Ghi chú:"
+
+msgid " If this person does not already have an Indico account, "
+msgstr "Nếu người này chưa có tài khoản Indico,"
+
+msgid "he or she will be sent an email asking to register as a user."
+msgstr "anh ấy hoặc cô ấy sẽ được gửi một email yêu cầu đăng ký như một người dùng."
+
+msgid " After the registration the user will automatically be given"
+msgstr "Sau khi đăng ký, người dùng sẽ tự động được cung cấp"
+
+msgid " submission rights."
+msgstr "quyền nộp."
+
+msgid "Give management rights"
+msgstr "Trao quyền quản lý"
+
+msgid "he or she will be sent an email asking to create an account."
+msgstr "anh ấy hoặc cô ấy sẽ được gửi một email yêu cầu tạo một tài khoản."
+
+msgid " After the account creation the user will automatically be"
+msgstr "Sau khi tạo tài khoản, người dùng sẽ tự động"
+
+msgid " given management rights."
+msgstr "trao quyền quản lý."
+
+msgid "Give coordination rights"
+msgstr "Trao quyền phối hợp"
+
+msgid " given coordination rights."
+msgstr "trao quyền phối hợp."
+
+msgid " given the rights."
+msgstr "đưa ra các quyền."
+
+msgid "Title"
+msgstr "Tiêu đề"
+
+msgid "Mr"
+msgstr "Ông"
+
+msgid "Mrs"
+msgstr "Bà"
+
+msgid "Ms"
+msgstr "Cô"
+
+msgid "Dr"
+msgstr "Tiến sĩ"
+
+msgid "Prof."
+msgstr "Giáo sư"
+
+msgid "Family Name"
+msgstr "Tên gia đình"
+
+msgid "First Name"
+msgstr "Tên đầu tiên"
+
+msgid "Affiliation"
+msgstr "Liên kết"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Address"
+msgstr "Địa chỉ"
+
+msgid "Telephone"
+msgstr "Điện thoại"
+
+msgid "It is not possible to grant submission rights to a participant without an email address. Please set an email address."
+msgstr "Không thể cấp quyền gửi cho người tham gia mà không có địa chỉ email. Vui lòng đặt một địa chỉ email."
+
+msgid "User privileges"
+msgstr "Đặc quyền người dùng"
+
+msgid "User rights"
+msgstr "Quyền của người sử dụng"
+
+msgid "Submission rights"
+msgstr "Quyền nộp"
+
+msgid "Add User / Group"
+msgstr "Thêm người dùng / nhóm"
+
+msgid "Add user"
+msgstr "Thêm người dùng"
+
+msgid "Add IP Network"
+msgstr "Thêm mạng IP"
+
+msgid "Add Users and Groups"
+msgstr "Thêm người dùng và nhóm"
+
+msgid "Add Users"
+msgstr "Thêm người dùng"
+
+msgid "Search Users and Groups"
+msgstr "Tìm kiếm người dùng và nhóm"
+
+msgid "Search Users"
+msgstr "Tìm kiếm người dùng"
+
+msgid "Add New"
+msgstr "Thêm mới"
+
+msgid "New user"
+msgstr "Người dùng mới"
+
+msgid "Grant all these users with privileges: "
+msgstr "Cấp cho tất cả những người dùng này với các đặc quyền:"
+
+msgid "Please reload the page and report this error to us if it persists."
+msgstr "Vui lòng tải lại trang và báo cáo lỗi này cho chúng tôi nếu nó vẫn còn."
+
+msgid "Report Error"
+msgstr "Báo cáo lỗi"
+
+msgid "Thanks for your error report!"
+msgstr "Cảm ơn báo cáo lỗi của bạn!"
+
+msgid "Previous tab"
+msgstr "Tab trước"
+
+msgid "Next tab"
+msgstr "Tab tiếp theo"
+
+msgid "switch to plain text"
+msgstr "chuyển sang văn bản thuần túy"
+
+msgid "switch to rich text"
+msgstr "chuyển sang văn bản phong phú"
+
+msgid "At least one must be selected"
+msgstr "Ít nhất một phải được chọn"
+
+msgid "Please enable the checkbox"
+msgstr "Vui lòng kích hoạt hộp kiểm"
+
+msgid "Please choose an option"
+msgstr "Vui lòng chọn một lựa chọn"
+
+msgid "Field must be a number"
+msgstr "Trường phải là một số"
+
+msgid "Field must be a positive number"
+msgstr "Trường phải là một số dương"
+
+msgid "Date format is not valid. It should be dd/mm/yyyy hh:mm"
+msgstr "Định dạng ngày không hợp lệ. Nó phải là dd / mm / yyyy hh: mm"
+
+msgid "Invalid e-mail address"
+msgstr "Địa chỉ email không hợp lệ"
+
+msgid "Invalid URL"
+msgstr "URL không hợp lệ"
+
+msgid "Time format is not valid. It should be hh:mm"
+msgstr "Định dạng thời gian không hợp lệ. Nó phải là hh: mm"
+
+msgid "Field is mandatory"
+msgstr "Lĩnh vực là bắt buộc"
+
+msgid "Add break"
+msgstr "Thêm giờ nghỉ"
+
+msgid "Add session"
+msgstr "Thêm phiên"
+
+msgid "Add session block"
+msgstr "Thêm khối phiên"
+
+msgid "Session"
+msgstr "Phiên"
+
+msgid "Room"
+msgstr "Phòng"
+
+msgid "Updating the timetable..."
+msgstr "Cập nhật thời gian biểu ..."
+
+msgid "Filter"
+msgstr "Bộ lọc"
+
+msgid "Printable version"
+msgstr "Phiên bản có thể in"
+
+msgid "Go back"
+msgstr "Quay lại"
+
+msgid "Print"
+msgstr "In"
+
+msgid "Export to PDF"
+msgstr "Xuất ra PDF"
+
+msgid "Switching to full screen mode..."
+msgstr "Chuyển sang chế độ toàn màn hình ..."
+
+msgid "Exit Full Screen"
+msgstr "Thoát toàn màn hình"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "Full screen"
+msgstr "Toàn màn hình"
+
+msgid "Link"
+msgstr "Liên kết"
+
+msgid "Detailed view"
+msgstr "Xem chi tiết"
+
+msgid "All days"
+msgstr "Tất cả các ngày"
+
+msgid "You are viewing the contents of the session block:"
+msgstr "Bạn đang xem nội dung của khối phiên:"
+
+msgid "Your changes triggered the automatic modification of some settings:"
+msgstr "Những thay đổi của bạn đã kích hoạt sửa đổi tự động một số cài đặt:"
+
+msgid "The <strong>starting time</strong> of the session interval <strong>"
+msgstr "<Strong> thời gian bắt đầu </ strong> của khoảng thời gian phiên <strong>"
+
+msgid "</strong> was moved from "
+msgstr "</ strong> đã được chuyển từ"
+
+msgid "The <strong>starting time</strong> of the <strong>Event</strong> was moved from "
+msgstr "<Strong> thời gian bắt đầu </ strong> của <strong> Sự kiện </ strong> đã được chuyển từ"
+
+msgid "The <strong>ending time</strong> of the session interval <strong>"
+msgstr "<Strong> thời gian kết thúc </ strong> của khoảng thời gian phiên <strong>"
+
+msgid "The <strong>ending time</strong> of the <strong>Event</strong> was moved from "
+msgstr "<Strong> thời gian kết thúc </ strong> của <strong> Sự kiện </ strong> đã được chuyển từ"
+
+msgid "The contents of the interval <strong>"
+msgstr "Nội dung của khoảng <strong>"
+
+msgid "</strong> were moved from "
+msgstr "</ strong> đã được chuyển từ"
+
+msgid " to "
+msgstr "đến"
+
+msgid "Session block"
+msgstr "Khối phiên"
+
+msgid "Contribution"
+msgstr "Sự đóng góp"
+
+msgid "Break"
+msgstr "Phá vỡ"
+
+msgid "Add poster"
+msgstr "Thêm poster"
+
+msgid "Add new"
+msgstr "Thêm mới"
+
+msgid "Reschedule"
+msgstr "Sắp xếp lại"
+
+msgid "Fit to content"
+msgstr "Phù hợp với nội dung"
+
+msgid "Add new block"
+msgstr "Thêm khối mới"
+
+msgid "Add one hour"
+msgstr "Thêm một giờ"
+
+msgid "Session legend"
+msgstr "Phiên huyền thoại"
+
+msgid "see more..."
+msgstr "xem thêm ..."
+
+msgid "less..."
+msgstr "ít hơn..."
+
+msgid "Go to event timetable"
+msgstr "Đi đến thời gian biểu sự kiện"
+
+msgid "Up to timetable"
+msgstr "Lên thời gian biểu"
+
+msgid "move to resize"
+msgstr "di chuyển để thay đổi kích thước"
+
+msgid "<span class=\"key light\">Shift</span> is currently pressed. Changes will be applied to blocks after."
+msgstr "<span class = \ "key light \"> Shift </ span> hiện được nhấn. Thay đổi sẽ được áp dụng cho các khối sau."
+
+msgid "Drop to move block inside session"
+msgstr "Thả để di chuyển khối bên trong phiên"
+
+msgid "Show materials"
+msgstr "Hiển thị tài liệu"
+
+msgid "et al."
+msgstr "et al."
+
+msgid "This poster session has "
+msgstr "Phiên poster này có"
+
+msgid " contribution(s)."
+msgstr "đóng góp)."
+
+msgid "Please click for more information."
+msgstr "Hãy nhấp vào đây để biết thêm thông tin."
+
+msgid "Move entry"
+msgstr "Di chuyển mục"
+
+msgid "This timetable entry does not exist anymore. Please refresh the page."
+msgstr "Mục thời gian biểu này không tồn tại nữa. Vui lòng làm mới trang."
+
+msgid "Refresh"
+msgstr "Làm tươi"
+
+msgid "Move up"
+msgstr "Đi lên"
+
+msgid "Move down"
+msgstr "Đi xuống"
+
+msgid "Edit poster"
+msgstr "Chỉnh sửa poster"
+
+msgid "Manage protection"
+msgstr "Quản lý bảo vệ"
+
+msgid "Manage poster protection"
+msgstr "Quản lý bảo vệ poster"
+
+msgid "Unschedule"
+msgstr "Vô song"
+
+msgid "Unschedule poster"
+msgstr "Áp phích quảng cáo"
+
+msgid "Are you sure you want to unschedule the poster?"
+msgstr "Bạn có chắc chắn muốn mở khóa poster?"
+
+msgid "Delete poster"
+msgstr "Xóa poster"
+
+msgid "Are you sure you want to delete the poster?"
+msgstr "Bạn có chắc chắn muốn xóa poster?"
+
+msgid "Sessions"
+msgstr "Phiên"
+
+msgid "No sessions in the timetable"
+msgstr "Không có phiên trong thời gian biểu"
+
+msgid "Rooms"
+msgstr "Phòng"
+
+msgid "No rooms found in the timetable"
+msgstr "Không tìm thấy phòng trong thời gian biểu"
+
+msgid "Filter options"
+msgstr "Tùy chọn bộ lọc"
+
+msgid "Reset filter"
+msgstr "Đặt lại bộ lọc"
+
+msgid "All"
+msgstr "Tất cả"
+
+msgid "None"
+msgstr "không ai"
+
+msgid "ID"
+msgstr "TÔI"
+
+msgid "Sort by: "
+msgstr "Sắp xếp theo:"
+
+msgid "Select: "
+msgstr "Lựa chọn:"
+
+msgid "Add Contribution"
+msgstr "Thêm đóng góp"
+
+msgid "Add selected"
+msgstr "Thêm lựa chọn"
+
+msgid "Create a new one"
+msgstr "Tạo một cái mới"
+
+msgid "You may choose to:"
+msgstr "Bạn có thể chọn:"
+
+msgid "Choose one (or more) unscheduled"
+msgstr "Chọn một (hoặc nhiều hơn) đột xuất"
+
+msgid "To add an unscheduled contribution, please select at least one"
+msgstr "Để thêm đóng góp đột xuất, vui lòng chọn ít nhất một đóng góp"
+
+msgid "Add contribution"
+msgstr "Thêm đóng góp"
+
+msgid "Step 1: Choose type of rescheduling"
+msgstr "Bước 1: Chọn loại sắp xếp lại"
+
+msgid "See an example"
+msgstr "Xem một ví dụ"
+
+msgid "Adjust starting time of all entries"
+msgstr "Điều chỉnh thời gian bắt đầu của tất cả các mục"
+
+msgid "Move the entries of "
+msgstr "Di chuyển các mục của"
+
+msgid " by changing their"
+msgstr "bằng cách thay đổi"
+
+msgid "Move the entries of the interval "
+msgstr "Di chuyển các mục của khoảng"
+
+msgid " starting times. "
+msgstr "thời gian bắt đầu."
+
+msgid "The first entry will start when the event starts ("
+msgstr "Mục đầu tiên sẽ bắt đầu khi sự kiện bắt đầu ("
+
+msgid "The first entry will start when the interval starts ("
+msgstr "Mục đầu tiên sẽ bắt đầu khi khoảng thời gian bắt đầu ("
+
+msgid "and the other entries will follow consecutively after it. The durations of the entries will not change. "
+msgstr "và các mục khác sẽ theo sau liên tiếp sau nó. Thời lượng của các mục sẽ không thay đổi."
+
+msgid "Adjust duration of all entries"
+msgstr "Điều chỉnh thời lượng của tất cả các mục"
+
+msgid "Adjust the "
+msgstr "Điều chỉnh"
+
+msgid " duration "
+msgstr "thời lượng"
+
+msgid "of the entries of "
+msgstr "của các mục của"
+
+msgid "the interval "
+msgstr "khoảng thời gian"
+
+msgid "Step 2: Choose time gap between entries"
+msgstr "Bước 2: Chọn khoảng cách thời gian giữa các mục"
+
+msgid "Step 3: Choose to fit sessions to their content"
+msgstr "Bước 3: Chọn để phù hợp với phiên với nội dung của họ"
+
+msgid "This changes the start and end times of the session blocks occuring on  in order to fit their respective content "
+msgstr "Điều này thay đổi thời gian bắt đầu và kết thúc của các khối phiên xảy ra để phù hợp với nội dung tương ứng của chúng"
+
+msgid "before"
+msgstr "trước"
+
+msgid " performing the rescheduling."
+msgstr "thực hiện việc sắp xếp lại."
+
+msgid "There will be no gaps between consecutive entries."
+msgstr "Sẽ không có khoảng cách giữa các mục liên tiếp."
+
+msgid "Entries will be separated by gaps of "
+msgstr "Các mục sẽ được phân tách bằng khoảng cách của"
+
+msgid "1 hour "
+msgstr "1 giờ"
+
+msgid " hours "
+msgstr "giờ"
+
+msgid "and "
+msgstr "và"
+
+msgid "1 minute."
+msgstr "1 phút."
+
+msgid " minutes."
+msgstr "phút"
+
+msgid "Rescheduling..."
+msgstr "Sắp xếp lại ..."
+
+msgid "Are you sure you want to reschedule entries ?"
+msgstr "Bạn có chắc chắn muốn sắp xếp lại các mục?"
+
+msgid "The entries that are part of a session will"
+msgstr "Các mục là một phần của phiên sẽ"
+
+msgid " first"
+msgstr "Đầu tiên"
+
+msgid " be fitted to their content."
+msgstr "được trang bị cho nội dung của họ."
+
+msgid "Then, all entries "
+msgstr "Sau đó, tất cả các mục"
+
+msgid "All entries "
+msgstr "Tất cả các mục"
+
+msgid " will have their "
+msgstr "sẽ có"
+
+msgid "starting times"
+msgstr "thời gian bắt đầu"
+
+msgid "duration"
+msgstr "thời lượng"
+
+msgid " changed."
+msgstr "đã thay đổi"
+
+msgid "Please review your choice"
+msgstr "Vui lòng xem lại lựa chọn của bạn"
+
+msgid "Please select the rescheduling type"
+msgstr "Vui lòng chọn loại sắp xếp lại"
+
+msgid "Reschedule Entries"
+msgstr "Sắp xếp lại các mục"
+
+msgid "Are you sure you want to proceed?"
+msgstr "Bạn có chắc muốn tiếp tục?"
+
+msgid "Fitting..."
+msgstr "Lắp ..."
+
+msgid "Fit timetable to content"
+msgstr "Thời gian biểu phù hợp với nội dung"
+
+msgid "Undo last operation"
+msgstr "Hoàn tác thao tác cuối cùng"
