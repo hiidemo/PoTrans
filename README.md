@@ -1,4 +1,4 @@
-![PoTrans](./docs/title.png)
+![PoTrans](./screenshot.jpg)
 
 PoTrans is a CLI tool to translate .po/.pot files automatically
 
@@ -29,5 +29,3 @@ $ PoTrans -p <InputFile> -l <OutputLanguage>
 ```
 - `<InputFile>` is the path of the .po/.pot file that PoTrans will translate
 - `<OutputLanguage>` is the ISO code of the target language that you want that your file will be translated to. 
-
-!(./screenshot.jpg)
